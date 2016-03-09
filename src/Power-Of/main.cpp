@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  eda-fn_forum
+//  uip-eda-functions-forum
 //
 //  Created by Zahir Gudiño on 3/8/16.
 //  Copyright © 2016 Zahir Gudiño. All rights reserved.
